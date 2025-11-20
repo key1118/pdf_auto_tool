@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+main.py
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Jupyter / temp
+*.ipynb_checkpoints
+*.DS_Store
+
+# Output files
+result.xlsx
+output.xlsx
+*.pdf
+
+# Logs
+*.log
+
+# OS crap
+Thumbs.db
