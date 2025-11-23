@@ -44,6 +44,7 @@ OPENAI_API_KEY=あなたのAPIキー
 ```
 
 ## ファイル構成
+```
 pdf_auto_tool/
 ├── app.py                 # Streamlit UI
 ├── pdf_reader.py          # PDF → テキスト抽出
@@ -53,6 +54,7 @@ pdf_auto_tool/
 ├── sample.pdf             # デモ用PDF
 ├── requirements.txt
 └── .env (自分で作成)
+```
 
 ## 使用技術
 •Python 3.x
